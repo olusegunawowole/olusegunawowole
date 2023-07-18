@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @olusegunawowole
+- 👋 Hi, I’m Olusegun Awowole
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Computer Programming and Analysis at Seneca College
 - 💞️ I’m looking to collaborate on Java projects
